@@ -19,4 +19,4 @@ comments: true
 
 
 
-With artificial intelligence humanity will enter a new era, but knowing the human race is not think it will be only positive.
+With artificial intelligence humanity will enter a new era, and knowing that the human race is nothing will be only positive.
