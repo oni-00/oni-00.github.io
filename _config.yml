@@ -8,7 +8,7 @@ logo:               'assets/img/mmeredane_lg.gif'
 background:         'assets/img/Masai_Mara_Game_Reserve_Kenya.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                http://taylantatli.me/Moon
+url:                https://oni-00.github.io
 
 # Jekyll
 permalink:          /:title/
